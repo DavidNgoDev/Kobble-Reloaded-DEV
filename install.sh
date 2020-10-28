@@ -1,8 +1,8 @@
 #!/bin/bash
 sudo pacman -Syu
 sudo pacman -Syyy
-sudo pacman -S xf86-video-fbdev xorg xorg-xunit nitrogen picom termite alacritty firefox base-devel
-git clone https://aur/archlinux.org/yay-git.git
+sudo pacman -S xf86-video-fbdev xorg xorg-xinit nitrogen picom termite alacritty firefox base-devel
+git clone https://aur.archlinux.org/yay-git.git
 cd yay-git/
 makepkg -si
 sudo pacman -S gnome gnome-extra
