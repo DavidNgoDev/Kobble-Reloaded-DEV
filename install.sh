@@ -1,9 +1,9 @@
 #!/bin/bash
 sudo pacman -Syu
 sudo pacman -Syyy
-sudo yes | pacman -S xf86-video-fbdev xorg xorg-xinit nitrogen picom termite alacritty firefox base-devel
+sudo pacman -S xf86-video-fbdev xorg xorg-xinit nitrogen picom termite alacritty firefox base-devel
 git clone https://aur.archlinux.org/yay-git.git
 cd yay-git/
 makepkg -si
-sudo yes | pacman -S gnome gnome-extra
+sudo pacman -S gnome gnome-extra
 echo "Done. You may want to reboot for everything to take affect."
