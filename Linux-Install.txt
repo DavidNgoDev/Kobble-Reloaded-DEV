@@ -1,0 +1,132 @@
+[TO DO LIST] [Version One]
+
+[GRUB Theme]
+-----------------------------------------------
+Tela GRUB Theme:
+https://www.gnome-look.org/p/1307852/
+
+GRUB Theme Vimix:
+https://www.gnome-look.org/p/1009236/
+
+[Window Manager]
+-----------------------------------------------
+Awesome:
+
+DWM:
+
+[Desktop Environment]
+-----------------------------------------------
+KDE:
+pacman -S xorg plasma plasma-wayland-session kde-applications
+systemctl enable sddm.service
+
+Gnome:
+pacman -S gnome gnome-extra
+systemctl enable gdm
+
+[Login Manager]
+-----------------------------------------------
+GDM:
+
+LightDM:
+
+SDDM:
+
+[Icons]
+-----------------------------------------------
+Flatery:
+https://www.gnome-look.org/s/Gnome/p/1332404
+
+McMojave Circle:
+https://www.gnome-look.org/s/Gnome/p/1305429
+
+Candy Icon:
+https://www.gnome-look.org/s/Gnome/p/1305251
+
+Tela Icon Theme:
+https://www.gnome-look.org/s/Gnome/p/1279924
+
+Suru ++:
+https://github.com/gusbemacbe/suru-plus
+
+Linebit:
+https://play.google.com/store/apps/details?id=com.edzondm.linebit&hl=en_AU
+
+[Cursor]
+-----------------------------------------------
+Capitaine Cursors:
+https://www.gnome-look.org/p/1148692/
+
+Oreo Cursors:
+https://www.gnome-look.org/p/1360254/
+
+[Dock Theme]
+-----------------------------------------------
+macOS BigSur Plank Dock:
+https://www.gnome-look.org/s/Gnome/p/1399398/
+
+[Terminal]
+-----------------------------------------------
+
+[Bash Prompt Theme]
+-----------------------------------------------
+Powerline Shell:
+https://github.com/b-ryan/powerline-shell
+
+Parrot OS Shell:
+https://github.com/ParrotSec/parrot-core/blob/master/parrot-core/root/.bashrc
+
+Spaceship:
+https://github.com/denysdovhan/spaceship-prompt
+
+[Customisation Tools]
+-----------------------------------------------
+Polybar:
+https://github.com/polybar/polybar
+
+[Colour Theme]
+-----------------------------------------------
+
+[VIM Config]=-=-=-=[Plugin]
+-----------------------------------------------
+
+[VIM Config]=-=-=-=[Theme]
+-----------------------------------------------
+
+[VIM Config]=-=-=-=[Colour Scheme]
+-----------------------------------------------
+
+[Applications]=-=-=-=[Dev]
+-----------------------------------------------
+Sublime
+PyCharm CE
+Postman
+Atom
+Notepad++
+Android Studio
+PhpStorm
+GitKraken
+IDEA Community
+Powershel
+Brackets
+Go
+Project Jupter
+LibrePCB
+Visual Studio Code
+CMake
+
+[Applications]=-=-=-=[Social]
+-----------------------------------------------
+Slack
+Skype
+Discord
+Teams
+
+[Applications]=-=-=-=[Productivity]
+-----------------------------------------------
+Firefox
+Drawio
+
+
+[Applications]=-=-=-=[Dev]
+-----------------------------------------------
